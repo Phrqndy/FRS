@@ -1,13 +1,22 @@
-# FRS
-Free To Use Basic PM5 Core
+FRS
 
+Free to Use Basic PM5 Core
 
-**👥 Get Online List - View all currently connected players**
-**🌐 Get Your Ping - Check your connection latency and status**
-**🗺️ World Info - Display current world statistics and information**
-**📊 Your Stats - View personal player statistics (health, hunger, XP, gamemode)**
+Current Features
 
-**| This Plugin Will Be Mantained and Updated Frequently**
+🕹️  Online player list
+⚡  Connection status & ping check
+🌍  World information display
+📈  Personal player stats (health, hunger, XP, gamemode)
 
-# 🤝 Contributing
-**Contributions are welcome! Feel free to submit issues and pull requests.**
+      | Major Update |
+⚔️  FFA game modes
+🏗️  Server setup system
+🎛️  Lobby core
+✨  Player cosmetics
+📊  Level progression
+🔄  Full plugin revamp
+
+Contributing
+
+🤝 Contributions are welcome! Submit issues or pull requests to help improve FRS.
