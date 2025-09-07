@@ -12,15 +12,13 @@ Current Features
 
 ⸻
 
-|      🚀 Major Update
-	•	⚔️ FFA Game Modes – Engage in free-for-all battles
-	•	🏗️ Server Setup System – Easily configure and manage your server
-	•	🎛️ Lobby Core – Smooth, functional lobby management
-	•	✨ Player Cosmetics – Customize your appearance and effects
-	•	📊 Level Progression – Track and display player levels
-	•	🔄 Complete Plugin Revamp – Enhanced performance, design, and usability
-
-⸻
+| 🚀 Major Update Coming Tomorrow
+| ⚔️ FFA Game Modes – Engage in free-for-all battles
+| 🏗️ Server Setup System – Easily configure and manage your server
+| 🎛️ Lobby Core – Smooth, functional lobby management
+| ✨ Player Cosmetics – Customize your appearance and effects
+| 📊 Level Progression – Track and display player levels
+| 🔄 Complete Plugin Revamp – Enhanced performance, design, and usability
 
 Contributing
 
