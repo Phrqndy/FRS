@@ -1,8 +1,9 @@
 FRS PM5 (Free & Unlicensed) ⛓️‍💥
 
 
+---
 
-⸻
+
 
 ## Current Features
 
@@ -14,7 +15,10 @@ FRS PM5 (Free & Unlicensed) ⛓️‍💥
 
 | 📈 Personal Stats 
 
-⸻
+
+---
+
+
 
 ## 🌸 Major Update
 
@@ -33,7 +37,9 @@ FRS PM5 (Free & Unlicensed) ⛓️‍💥
 | 🔄 Complete Plugin Revamp 
 
 (major update soon)
-⸻
+
+
+---
 
 ## Issues 🚨 
 
