@@ -16,9 +16,11 @@ FRS PM5 (Free & Unlicensed) ⛓️‍💥
 
 ⸻
 
-## | 🌸 Major Update |
+## 🌸 Major Update
 
 | ⚔️ FFA Game Modes 
+
+| 🪇 Fun Extra Gamemodes 
 
 | 🏗️ Server Setup System 
 
@@ -32,12 +34,12 @@ FRS PM5 (Free & Unlicensed) ⛓️‍💥
 
 ⸻
 
-## | Issues 🚨 
+## Issues 🚨 
 
 | Open a Issue and it will be fixed asap!
 
 
 
-## | Contributing
+## Contributing 🤝
 
-| 🤝 Contributions are welcome! Submit issues or pull requests to help improve FRS.
+🤝 Contributions are welcome! Submit issues or pull requests to help improve FRS.
