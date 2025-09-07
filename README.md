@@ -1,21 +1,26 @@
-FRS
+FRS (Free)
 
 Free to Use Basic PM5 Core
 
+⸻
+
 Current Features
+	•	🕹️ Online Player List – View all currently connected players
+	•	⚡ Ping & Connection Status – Check your latency and connection health
+	•	🌍 World Information – Display current world statistics
+	•	📈 Personal Stats – Track health, hunger, XP, and gamemode
 
-🕹️  Online player list
-⚡  Connection status & ping check
-🌍  World information display
-📈  Personal player stats (health, hunger, XP, gamemode)
+⸻
 
-      | Major Update |
-⚔️  FFA game modes
-🏗️  Server setup system
-🎛️  Lobby core
-✨  Player cosmetics
-📊  Level progression
-🔄  Full plugin revamp
+|      🚀 Major Update
+	•	⚔️ FFA Game Modes – Engage in free-for-all battles
+	•	🏗️ Server Setup System – Easily configure and manage your server
+	•	🎛️ Lobby Core – Smooth, functional lobby management
+	•	✨ Player Cosmetics – Customize your appearance and effects
+	•	📊 Level Progression – Track and display player levels
+	•	🔄 Complete Plugin Revamp – Enhanced performance, design, and usability
+
+⸻
 
 Contributing
 
