@@ -1,6 +1,6 @@
-FRS (Free & Unlicensed) ⛓️‍💥
+FRS PM5 (Free & Unlicensed) ⛓️‍💥
 
-*Free to Use Basic PM5 Core*
+
 
 ⸻
 
@@ -16,7 +16,7 @@ FRS (Free & Unlicensed) ⛓️‍💥
 
 ⸻
 
-## 🚀 Major Update (Coming Tomorrow)
+## | 🌸 Major Update |
 
 | ⚔️ FFA Game Modes 
 
@@ -32,12 +32,12 @@ FRS (Free & Unlicensed) ⛓️‍💥
 
 ⸻
 
-## Issues 🚨
+## | Issues 🚨 
 
 | Open a Issue and it will be fixed asap!
 
 
 
-## Contributing
+## | Contributing
 
 | 🤝 Contributions are welcome! Submit issues or pull requests to help improve FRS.
