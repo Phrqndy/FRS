@@ -43,10 +43,12 @@ FRS PM5 (Free & Unlicensed) ⛓️‍💥
 
 ## Issues 🚨 
 
-| Open a Issue and it will be fixed asap!
+Open a Issue and it will be fixed asap!
 
+
+---
 
 
 ## Contributing 🤝
 
-🤝 Contributions are welcome! Submit issues or pull requests to help improve FRS.
+Contributions are welcome! Submit issues or pull requests to help improve FRS.
