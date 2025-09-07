@@ -7,8 +7,11 @@ FRS (Free & Unlicensed) ⛓️‍💥
 ## Current Features
 
 | 🕹️ Online Player List 
+
 | ⚡ Ping & Connection Status 
+
 | 🌍 World Information 
+
 | 📈 Personal Stats 
 
 ⸻
@@ -16,10 +19,15 @@ FRS (Free & Unlicensed) ⛓️‍💥
 ## 🚀 Major Update (Coming Tomorrow)
 
 | ⚔️ FFA Game Modes 
+
 | 🏗️ Server Setup System 
+
 | 🎛️ Lobby Core – Smooth
+
 | ✨ Player Cosmetics 
+
 | 📊 Level Progression 
+
 | 🔄 Complete Plugin Revamp 
 
 ⸻
@@ -27,6 +35,8 @@ FRS (Free & Unlicensed) ⛓️‍💥
 ## Issues 🚨
 
 | Open a Issue and it will be fixed asap!
+
+
 
 ## Contributing
 
