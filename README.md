@@ -5,7 +5,7 @@ FRS PM5 (Free & Unlicensed) ⛓️‍💥
 
 
 
-## Current Features
+## 🥸 Current Features
 
 | 🕹️ Online Player List 
 
