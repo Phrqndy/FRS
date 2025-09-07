@@ -32,6 +32,7 @@ FRS PM5 (Free & Unlicensed) ⛓️‍💥
 
 | 🔄 Complete Plugin Revamp 
 
+(major update soon)
 ⸻
 
 ## Issues 🚨 
