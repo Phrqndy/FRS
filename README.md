@@ -6,23 +6,27 @@ FRS (Free & Unlicensed) ⛓️‍💥
 
 ## Current Features
 
-| 🕹️ Online Player List – View all currently connected players
-| ⚡ Ping & Connection Status – Check your latency and connection health
-| 🌍 World Information – Display current world statistics
-| 📈 Personal Stats – Track health, hunger, XP, and gamemode
+| 🕹️ Online Player List 
+| ⚡ Ping & Connection Status 
+| 🌍 World Information 
+| 📈 Personal Stats 
 
 ⸻
 
 ## 🚀 Major Update (Coming Tomorrow)
 
-| ⚔️ FFA Game Modes – Engage in free-for-all battles
-| 🏗️ Server Setup System – Easily configure and manage your server
-| 🎛️ Lobby Core – Smooth, functional lobby management
-| ✨ Player Cosmetics – Customize your appearance and effects
-| 📊 Level Progression – Track and display player levels
-| 🔄 Complete Plugin Revamp – Enhanced performance, design, and usability
+| ⚔️ FFA Game Modes 
+| 🏗️ Server Setup System 
+| 🎛️ Lobby Core – Smooth
+| ✨ Player Cosmetics 
+| 📊 Level Progression 
+| 🔄 Complete Plugin Revamp 
 
 ⸻
+
+## Issues 🚨
+
+| Open a Issue and it will be fixed asap!
 
 ## Contributing
 
